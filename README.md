@@ -22,7 +22,7 @@ A comprehensive event management system built with Next.js, Material-UI, and AI 
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/AIUtssavBot/HACKXPLORE_New.git
 cd event-management-system
 ```
 
